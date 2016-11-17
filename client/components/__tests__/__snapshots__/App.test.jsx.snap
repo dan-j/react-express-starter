@@ -1,0 +1,14 @@
+exports[`test App renders as expected 1`] = `
+<div>
+  <h1>
+    Hello World
+  </h1>
+  <button
+    onClick={[Function]}>
+    Click me!
+  </button>
+  <div>
+    Not Loaded
+  </div>
+</div>
+`;
